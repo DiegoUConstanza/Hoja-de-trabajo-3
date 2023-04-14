@@ -1,4 +1,4 @@
-package hoja_de_trabajo_3_2023;
+package hoja_de_trabajo_4_2023;
 import java.lang.Math;
 import java.util.Scanner;
 

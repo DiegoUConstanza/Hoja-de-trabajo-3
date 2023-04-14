@@ -1,7 +1,7 @@
-package hoja_de_trabajo_3_2023;
+package hoja_de_trabajo_4_2023;
 import java.util.Scanner;
 
-public class Hoja_de_Trabajo_3_2023 {
+public class Hoja_de_Trabajo_4_2023 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
